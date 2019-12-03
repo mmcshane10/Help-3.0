@@ -24,11 +24,11 @@ function TicketList(props) {
     </div>
   );
 }
-TicketList.propTypes = {
-  ticketList: PropTypes.object,
-  currentRouterPath: PropTypes.string,
-  onTicketSelection: PropTypes.func,
-  ticketId: PropTypes.string.isRequired
-};
+// TicketList.propTypes = {
+//   ticketList: PropTypes.object,
+//   currentRouterPath: PropTypes.string,
+//   onTicketSelection: PropTypes.func,
+//   ticketId: PropTypes.string.isRequired
+// };
 
 export default TicketList;

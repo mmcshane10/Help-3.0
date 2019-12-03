@@ -13,8 +13,8 @@ function TicketDetail(props){
   );
 }
 
-TicketDetail.propTypes = {
-  selectedTicket: PropTypes.object
-};
+// TicketDetail.propTypes = {
+//   selectedTicket: PropTypes.object
+// };
 
 export default TicketDetail;

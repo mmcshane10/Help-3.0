@@ -10,8 +10,8 @@ function ConfirmationQuestions(props){
   );
 }
 
-ConfirmationQuestions.propTypes = {
-  onTroubleshootingConfirmation: PropTypes.func
-};
+// ConfirmationQuestions.propTypes = {
+//   onTroubleshootingConfirmation: PropTypes.func
+// };
 
 export default ConfirmationQuestions;

@@ -38,8 +38,8 @@ function NewTicketForm(props){
   );
 }
 
-NewTicketForm.propTypes = {
-  onNewTicketCreation: PropTypes.func
-};
+// NewTicketForm.propTypes = {
+//   onNewTicketCreation: PropTypes.func
+// };
 
 export default NewTicketForm;

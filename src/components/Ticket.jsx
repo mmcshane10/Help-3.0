@@ -29,13 +29,13 @@ function Ticket(props) {
   }
 }
 
-Ticket.propTypes = {
-  names: PropTypes.string.isRequired,
-  location: PropTypes.string.isRequired,
-  issue: PropTypes.string,
-  formattedWaitTime: PropTypes.string.isRequired,
-  currentRouterPath: PropTypes.string,
-  onTicketSelection: PropTypes.func
-};
+// Ticket.propTypes = {
+//   names: PropTypes.string.isRequired,
+//   location: PropTypes.string.isRequired,
+//   issue: PropTypes.string,
+//   formattedWaitTime: PropTypes.string.isRequired,
+//   currentRouterPath: PropTypes.string,
+//   onTicketSelection: PropTypes.func
+// };
 
 export default Ticket;
